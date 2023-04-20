@@ -7,7 +7,7 @@ The Workflow is configured as a Folder Action. When installed on a folder, any W
 
 ## Installation
 
-Download the `Convert WebP to PNG.workflow` file and double click it to begin installation. The Folder Action Installer dialog will appear, asking which folder you'd like to attach it to (I installed it on my Downloads folder). 
+Download the latest release, unzip the archive, and double click `Convert WebP to PNG.workflow` to begin installation. The Folder Action Installer dialog will appear, asking which folder you'd like to attach it to (I installed it on my Downloads folder). 
 ![Folder Action Installer](https://user-images.githubusercontent.com/23707259/233421035-e910ab43-a49c-490c-a153-f9fe3ad564fc.png)
 
 Select a folder, then click **Install** to install the Folder Action. If you've chosen a protected folder like Documents, Downloads, or Desktop, the system will probably ask permission for "Automator Installer.app" to access that folder. Click **OK** if that comes up.
